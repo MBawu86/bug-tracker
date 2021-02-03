@@ -1,0 +1,3 @@
+[submodule "bug-tracker"]
+	path = bug-tracker
+	url = https://github.com/MBawu86/bug-tracker.git
